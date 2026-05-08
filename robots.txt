@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://time-hatted.github.io/resources-9jbq2f/sitemap.xml
